@@ -13,9 +13,6 @@ There is both a train and test csv dataset.The datasets are historical hourly re
 ## Data Cleaning
 Used Python for the data cleaning aspect of this project. Went through each of my 2 datasets to clean the fields and values.
 
-Example: Combining similar values for a specific weather type for a game. Changing Outdoors to Outdoor value as well as other misspellings in the dataset. 
-
-
 ## Data Vizualizations
 
 Below are some of the main graphs that I produced comparing all the variables to see the major trends. The rest of them will be found and discussed in my final video link.
