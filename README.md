@@ -26,13 +26,11 @@ Below is some of the R code that I did orginally to analyze my datasets before s
 
 ## Data Vizualizations
 
-Below are some of the main graphs that I produced comparing all the variables to injuries to see the major trends. The rest of them will be found and discussed in my final video link.
+Below are some of the main graphs that I produced comparing all the variables to see the major trends. The rest of them will be found and discussed in my final video link.
 
-![Snip20211007_1](https://user-images.githubusercontent.com/92532095/137373077-d8be8a96-7fe9-47c4-a2b7-912efbe71a31.png)
+<img width="763" alt="Screen Shot 2022-12-10 at 8 29 16 AM" src="https://user-images.githubusercontent.com/92532095/206863290-a68907b9-c627-4710-8b87-eb2056d0e549.png">
 
-![Snip20211007_2](https://user-images.githubusercontent.com/92532095/137373114-98d97cca-52b5-43e1-bdac-e22f83deb58c.png)
-
-![Snip20211007_3](https://user-images.githubusercontent.com/92532095/137373241-b4117998-2865-4d13-9694-998353712402.png)
+<img width="699" alt="Screen Shot 2022-12-10 at 8 33 28 AM" src="https://user-images.githubusercontent.com/92532095/206863297-53bf3241-aaa4-45d1-8410-451cf186a95d.png">
 
 ## File Structure in Repository
 
