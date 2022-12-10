@@ -16,14 +16,6 @@ Used Python for the data cleaning aspect of this project. Went through each of m
 Example: Combining similar values for a specific weather type for a game. Changing Outdoors to Outdoor value as well as other misspellings in the dataset. 
 
 
-## Exploratory Data Analysis
-
-Below is some of the R code that I did orginally to analyze my datasets before starting to model. 
-
-![Snip20211014_5](https://user-images.githubusercontent.com/92532095/137372798-4e3ccd2d-97f3-45e6-ac14-bb9ff6cdc7f2.png)
-
-![Snip20211014_6](https://user-images.githubusercontent.com/92532095/137372828-8a9cdee2-5bd4-4fd0-ac7d-df3153e24053.png)
-
 ## Data Vizualizations
 
 Below are some of the main graphs that I produced comparing all the variables to see the major trends. The rest of them will be found and discussed in my final video link.
@@ -31,6 +23,20 @@ Below are some of the main graphs that I produced comparing all the variables to
 <img width="763" alt="Screen Shot 2022-12-10 at 8 29 16 AM" src="https://user-images.githubusercontent.com/92532095/206863290-a68907b9-c627-4710-8b87-eb2056d0e549.png">
 
 <img width="699" alt="Screen Shot 2022-12-10 at 8 33 28 AM" src="https://user-images.githubusercontent.com/92532095/206863297-53bf3241-aaa4-45d1-8410-451cf186a95d.png">
+
+<img width="618" alt="Screen Shot 2022-12-10 at 8 40 08 AM" src="https://user-images.githubusercontent.com/92532095/206863334-a296a188-5618-40f0-8118-b5dd662ab115.png">
+
+<img width="431" alt="Screen Shot 2022-12-10 at 8 43 52 AM" src="https://user-images.githubusercontent.com/92532095/206863340-0b300f28-b577-4b85-843c-9ec81608d679.png">
+
+<img width="443" alt="Screen Shot 2022-12-10 at 8 44 51 AM" src="https://user-images.githubusercontent.com/92532095/206863348-752c9f08-ff68-48be-a7c7-d00cf0303291.png">
+
+<img width="415" alt="Screen Shot 2022-12-10 at 8 44 56 AM" src="https://user-images.githubusercontent.com/92532095/206863353-55bfe411-68d6-4e35-a2af-4722e65fc4d9.png">
+
+<img width="430" alt="Screen Shot 2022-12-10 at 8 48 12 AM" src="https://user-images.githubusercontent.com/92532095/206863363-feaa2d4a-0713-4701-9a27-8c06b31cc3c9.png">
+
+## Machine Learning Models
+
+<img width="621" alt="Screen Shot 2022-12-10 at 9 07 10 AM" src="https://user-images.githubusercontent.com/92532095/206863374-28c852ee-fd85-4047-8a72-afaef4210644.png">
 
 ## File Structure in Repository
 
