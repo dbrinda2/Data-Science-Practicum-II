@@ -40,14 +40,11 @@ Below are some of the main graphs that I produced comparing all the variables to
 
 ## File Structure in Repository
 
-PythonCleaning.ipynb : Python source code of full cleaning file of 3 datasets that I worked with.
-
-EDA and Modeling.R : R source code of exploratory data analysis and modeling/plots of variable relationships.
+BikeSharedSystemCode.ipynb : Python source code of full project file of 2 datasets that I worked with.
 
 Drew Final Video .pptx: Powerpoint Presentation of final video slides.
 
-InjuryRecordSample.csv: Sample of Injury Record Dataset 
+train.csv: Training Bike Shared System Dataset 
 
-PlayListSample.csv: Sample of Play List Dataset
+test.csv: Testing Bike Shared System Dataset 
 
-PlayTrackSample.csv: Sample of Player Track Dataset
