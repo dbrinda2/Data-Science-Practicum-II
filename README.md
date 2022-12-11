@@ -1,7 +1,7 @@
 # Data-Science-Practicum-II
 An Analysis of Bike Shared Systems by Drew Brinda at Regis. 
 
-Full Video Presentation link on youtube is at: 
+Full Video Presentation link on youtube is at: https://youtu.be/jhqWOmsE6VM
 
 ## Goal
 The problem I am trying to assess is by helping bike shared companies know how many bicycles should be available at each specific location in a particular city depending on time, season, weather, temperature and other factors.
